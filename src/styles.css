@@ -5,7 +5,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-  color: #0e0b0b;
+  color: #043845;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -22,7 +22,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(10, 9, 9);
+  color: rgb(4, 41, 58);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -55,7 +55,7 @@ li:first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: rgb(3, 52, 73);
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
