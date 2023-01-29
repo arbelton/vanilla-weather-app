@@ -120,5 +120,5 @@ function changeTheme() {
   let body = document.querySelector("body");
   body.classList.toggle("dark");
 }
-let themeButton = document.querySelector("theme-change");
+let themeButton = document.querySelector(".theme-change");
 themeButton.addEventListener("click", changeTheme);

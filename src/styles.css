@@ -13,7 +13,7 @@ button {
   left: auto;
 }
 button:hover {
-  color: black;
+  color: rgb(42, 145, 205);
   cursor: pointer;
 }
 h1 {
