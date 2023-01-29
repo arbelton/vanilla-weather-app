@@ -5,7 +5,8 @@ body {
   font-family: "Permanent Marker", cursive;
 }
 button {
-  color: rgb(3, 52, 73);
+  background-color: #043845;
+  color: rgb(171, 203, 216);
   border-radius: 10px;
   font-size: 12px;
   top: auto;
@@ -105,4 +106,9 @@ li:first-letter {
 
 .weather-forecast-temperatures {
   font-size: 13px;
+}
+.dark {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/902/original/ocean-calm.gif?1674955663");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
