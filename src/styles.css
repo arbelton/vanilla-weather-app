@@ -4,6 +4,17 @@ body {
   background-repeat: no-repeat;
   font-family: "Permanent Marker", cursive;
 }
+button {
+  color: rgb(3, 52, 73);
+  border-radius: 10px;
+  font-size: 12px;
+  top: auto;
+  left: auto;
+}
+button:hover {
+  color: black;
+  cursor: pointer;
+}
 h1 {
   color: #043845;
   font-size: 24px;

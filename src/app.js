@@ -1,3 +1,10 @@
+function changeTheme() {
+  let body = document.querySelector("body");
+  body.classList.toggle("dark");
+}
+let themeButton = document.querySelector("theme-change");
+themeButton.addEventListener("click", changeTheme);
+
 function formatDate(timestamp) {
   let date = new Date(timestamp);
   let hours = date.getHours();
